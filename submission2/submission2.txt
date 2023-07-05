@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/12bQch7vKJjmZ6GgQlaS33vBGPCJFDGtYYHTAY9gp
 Paper title:
 Emotion Recognition in the Wild Using Deep Learning and Transfer Learning
 
-Link to the paper:
+Link to the paper: 
 
 
 Group Number:
